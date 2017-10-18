@@ -5,3 +5,5 @@ hello Word
 function£¨£©{
 	document.getElementById£¨£©;
 }
+
+The test is change

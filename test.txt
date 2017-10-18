@@ -1,0 +1,7 @@
+hello test
+
+hello Word
+
+function£¨£©{
+	document.getElementById£¨£©;
+}
